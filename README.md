@@ -11,7 +11,7 @@ The main goal is to build a structured technical reference, reinforce my knowled
 This repository is organized into the following technical areas:
 
 | Area | Description | Status |
-|---|---|---|
+    |---|---|---|
 | Networking | Networking fundamentals, protocols, infrastructure and troubleshooting. | In Progress |
 | Git & GitHub | Version control, repositories, branches and collaboration workflows. | In Progress |
 | Linux | Linux fundamentals, terminal commands, administration and system management. | Planned |
