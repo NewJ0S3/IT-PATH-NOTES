@@ -246,64 +246,44 @@ These are the most important concepts from Unit 2:
 
 Test your understanding before moving to the next unit.
 
-Unit 2 Quiz
+1.What is GitHub?
 
-- /7 answered
+- [ ]  A programming language
+- [x]  A cloud-based platform built around Git
+- [ ]  A centralized version control system
 
-1. What is GitHub?
+2.What is a repository?
 
-A programming language
-
-A cloud-based platform built around Git
-
-A centralized version control system
-
-- . What is a repository?
-
-A tool for writing code
-
-A storage location containing project files and revision history
-
-A type of Git branch
+- [ ]  A tool for writing code
+- [x]  A storage location containing project files and revision history
+- [ ]  A type of Git branch
 
 3.What command creates a local copy of a remote repository?
 
-git push
-
-git commit
-
-git clone
+- [ ]  git push
+- [ ]  git commit
+- [x]  git clone
 
 4.Are Secret Gists completely private?
 
-Yes, only the owner can access them
-
-No, anyone with the URL can access them
-
-Yes, they are encrypted automatically
+- [ ]  Yes, only the owner can access them
+- [x]  No, anyone with the URL can access them
+- [ ]  Yes, they are encrypted automatically
 
 5.What is the main purpose of a GitHub Wiki?
 
-Hosting executable applications
-
-Storing passwords
-
-Providing detailed project documentation
+- [ ]  Hosting executable applications
+- [ ]  Storing passwords
+- [x]  Providing detailed project documentation
 
 6.What does Dependabot help with?
 
-Identifying and updating vulnerable or outdated dependencies
-
-Creating repository branches
-
-Writing project documentation
+- [x]  Identifying and updating vulnerable or outdated dependencies
+- [ ]  Creating repository branches
+- [ ]  Writing project documentation
 
 7.What is a Feature Preview?
 
-A repository backup
-
-Early access to experimental GitHub features
-
-A Git commit
-
-Check answers
+- [ ]  A repository backup
+- [x]  Early access to experimental GitHub features
+- [ ]  A Git commit
