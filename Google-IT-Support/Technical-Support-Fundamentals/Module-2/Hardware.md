@@ -44,4 +44,50 @@ The CPU has an internal clock that synchronizes operations through clock cycles,
 
 ## Components
 
+### CPU Function and Instruction Set
+
+The CPU acts as a powerful calculator inside the computer, processing binary data. It uses an instruction set, a hard-coded list of simple instructions like adding or copying data, to perform all program functions.
+
+### CPU Manufacturers and Compatibility
+
+Popular CPU manufacturers include Intel, AMD, and Qualcomm, each with different product lines and strengths. CPUs must be compatible with the motherboard, which connects all components, and fit the correct socket type.
+
+### CPU Sockets and Cooling
+
+Two main CPU socket types are Land Grid Array (LGA) with pins on the motherboard and Pin Grid Array (PGA) with pins on the CPU. Proper cooling with a heat sink and fan is essential to prevent CPU overheating.
+
+### CPU Architecture
+
+CPUs come in 32-bit or 64-bit architectures, indicating how much data they can efficiently process. Choosing the right CPU ensures good performance and compatibility with other computer parts.
+
+### RAM Basics
+
+RAM stores data temporarily for quick access by the CPU, and it is volatile, meaning data is lost when power is off. Programs must be  loaded into RAM to run, and the amount of RAM determines how many programs can run simultaneously.
+
+### Types of RAM
+
+- DRAM (Dynamic RAM) stores bits as charged or discharged capacitors on chips.
+- DIMM (Dual Inline Memory Module) sticks hold DRAM chips and come in various sizes and pin configurations.
+
+### Advancements in RAM Technology
+
+- SDRAM (Synchronous DRAM) synchronizes with the system clock for faster data processing.
+- DDR SDRAM (Double Data Rate SDRAM) is the modern standard with multiple version (DDR1 to DDR5), offering faster speeds, lower power consumption, and higher capacity.
+
+### Compatibility Considerations
+
+RAM must be compatible with the motherboard, including matching the number of pins and supported DDR version. Using faster RAM improves program speed and multitasking capability.
+
+### Motherboard Functions and Chipset
+
+The motherboard routes power from the power supply and enables communication between different computers parts. The chipset, consisting of Northbridge and Southbridge chips, manages data flow between the CPU, RAM, video cards, and input/output devices; modern CPUs may integrate the Northbridge directly.
+
+### Expansion Slots and PCI Express
+
+Expansion slots on the motherboard allow adding functionality, such as upgrading a graphics card. PCI Express (PCIe) is the current standard for expansion buses, providing slot for expansion cards.
+
+### Form Factor and Compatibility
+
+Motherboards come in various sizes called form factors, like ATX and ITX, which determine the number of components and expansion slots they support. Choosing the right form factor is important for building a computer that fits your needs and ensures compatibility with components like RAM and processors.
+
 ## Starting it Up
