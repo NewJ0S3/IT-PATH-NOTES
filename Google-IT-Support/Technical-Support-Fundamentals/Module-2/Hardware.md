@@ -90,4 +90,35 @@ Expansion slots on the motherboard allow adding functionality, such as upgrading
 
 Motherboards come in various sizes called form factors, like ATX and ITX, which determine the number of components and expansion slots they support. Choosing the right form factor is important for building a computer that fits your needs and ensures compatibility with components like RAM and processors.
 
+### Data Size Units
+
+The smallest unit of data storage is a bit, which stores a binary digit (0 or 1). A byte consists of 8 bits and can hold a letter, number, or symbol; larger units include kilobytes (1,024 bytes), megabytes, gigabytes, etc.
+
+### Type of Hard Drivers
+
+- Hard Disk Drives (HDDs) use spinning platters and mechanical arms to read/write data; speed is measure in RPM (revolutions per minute).
+- Solis State Drives (SSDs) have no moving parts, store data on microchips, offer faster data access, and are more durable but more expensive than HDDs.
+
+### Hard Drive Interfaces
+
+ATA interfaces, especially Serial ATA (SATA), are common for connecting drives; SATA supports hot swapping and faster data transfer than older interfaces. NVMe is a newer interface designed for hugh-speed SSDs, connecting drives via expansion slots for greater data throughput and efficiency.
+
+### Power Supply Basics
+
+A power supply converts AC (Alternating Current) from the wall outlet into low voltage DC (Direct Current) used by computer components. It includes components like a fan, voltage information label, and cables to connect to motherboard and other parts.
+
+### Electricity Concepts
+
+- Voltage is like water pressure, pushing electricity through circuits; using the wrong voltage can damage devices.
+- Current (amperage) is the flow of electricity, measured is amps; higher amps can charge devices faster.
+- Wattage is  the product of voltage and current, indicating the total power needed; insufficient wattage can prevent a computer from powering on.
+
+### Practical Considerations
+
+Using the correct voltage and wattage is crucial to avoid damaging devices or poor performance.
+
+Power supplies provide only the power the system requires, so having a higher wattage supply is generally safe. Power supply failure can cause computers not to turn on and may result from burnouts, power surges, or lightning strikes.
+
+Diagnosing and replacing faulty power supplies is an important skill for IT support specialists.
+
 ## Starting it Up
