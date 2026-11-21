@@ -121,4 +121,36 @@ Power supplies provide only the power the system requires, so having a higher wa
 
 Diagnosing and replacing faulty power supplies is an important skill for IT support specialists.
 
+### Mobile Device Characteristics
+
+Mobile devices are portable computers with CPUs, RAM, storage, power systems, and peripherals, often powered by batteries. They can be general-purpose devices like smartphones and tablets or specialized devices like fitness trackers and e-readers.
+
+### Integration and Components
+
+Mobile devices tend to have highly integrated components, often soldered onto the motherboard. Small devices use a system on a chip (SoC) that combines CPU, RAM, and sometimes storage to save space and power.
+
+### Peripherals and Connectivity
+
+Mobile devices use peripherals such as Bluetooth headphones and can themselves act as peripherals. The may use standard or proprietary ports and connectors, sometimes designed for specific needs like waterproogfing.
+
+### Operating System and Support
+
+Mobile devices run OS and Apps optimized for their size and power constraints. IT support specialists may assist with setup, troubleshooting, and repair, while respecting user privacy, especially in Bring Your Own Device (BYOD) scenarios.
+
+### Rechargeable Battery Basics
+
+Mobile devices use rechargeable batteries to provide power on the go, which can be charged via external chargers, cradle stands, or wireless inductive charging pads. Rechargeable batteries have a limited lifespan measured in charge cycles, and their performance declines as the age, affecting charge time and capacity.
+
+### Charging and Power Management
+
+Charging requires an external power source and a charging circuit that converts input power to the correct output for the battery. Using the correct charger for each device is crucial  to avoid damage to the battery, device, or charger.
+
+### Battery Safety and Maintenance
+
+Batteries should be charged and discharged within safe temperature ranges to prevent damage or dangerous situations like swelling or fire. When batteries reach the end of their life, they may need replacement; some devices slow down to extend battery life, and battery replacement can vary in difficulty depending on the device.
+
+### IT Support Considerations
+
+IT support specialists may be trained to replace batteries or manage device repairs and should verify compatibility between chargers, batteries, and devices. Educating end-users on best practices for battery care and troubleshooting charging issues is an important part of IT support.
+
 ## Starting it Up
