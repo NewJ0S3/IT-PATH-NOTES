@@ -153,4 +153,25 @@ Batteries should be charged and discharged within safe temperature ranges to pre
 
 IT support specialists may be trained to replace batteries or manage device repairs and should verify compatibility between chargers, batteries, and devices. Educating end-users on best practices for battery care and troubleshooting charging issues is an important part of IT support.
 
+### USB Peripherals and Standards
+
+Peripherals are external devices connected to a computer to add functionality, such as a mouse, keyboard, or monitor.
+
+- USB  (Universal Serial Bus) is the most common connection type, with versions like USB 2.0, 3.0, and 3.1 differing in transfer speeds measured in megabits per second (Mb/s).
+- USB ports are backward compatible, meaning older devices can work with newer ports but at the older device’s speed.
+- USB ports are color-coded: USB 2.0 is usually black, USB 3.0 blue, and USB 3.1 teal, though this can vary by manufacturer.
+
+The latest USB connector type is USB Type C, which supports data transfer, display,  and power delivery.
+
+### Display Peripherals and Connections
+
+Common display connections include DVI, HDMI, and Display port.
+
+- DVI generally supports video only, while HDMI and DisplayPort support both video and audio.
+- USB Type C can also handle display output along with data and power, making it a versatile connection standard.
+
+### Practical IT Support Knowledge
+
+As an IT support specialist, understanding these peripheral types and their compatibility is essential for troubleshooting and setting up computer systems.
+
 ## Starting it Up
